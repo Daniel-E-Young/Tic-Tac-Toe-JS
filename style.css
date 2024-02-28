@@ -40,5 +40,9 @@ body{
 }
 
 .cell:nth-child(3n + 1){
-    
+    border-left: none;
+}
+.cell.x
+.cell.circle {
+    cursor: not-allowed;
 }
