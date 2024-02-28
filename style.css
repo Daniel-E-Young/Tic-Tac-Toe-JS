@@ -19,5 +19,10 @@ body{
     align-content: center;
     justify-content: center;
     align-items: center;
-    grid-template-columns: repeat(3,auto);
+    grid-template-columns: repeat(3,auto)
+}
+
+.cell{
+    width: var(--cell-size);
+    height: var(--cell-size);
 }
