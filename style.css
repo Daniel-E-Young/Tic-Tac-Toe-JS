@@ -49,6 +49,8 @@ body{
 
 .cell.x::before,
 .cell.x::after,
-.cell.circle::before{
-    
+.cell.circle::before {
+    background-color: black;
 }
+
+.
