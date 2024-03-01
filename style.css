@@ -58,3 +58,4 @@ body{
 .board.circle .cell:not(.x):not(.circle):hover::before {
     background-color: lightgrey;
 }
+
