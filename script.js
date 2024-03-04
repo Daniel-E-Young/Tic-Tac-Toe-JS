@@ -12,4 +12,4 @@ const WINNING_COMBINATIONS = [
 ]
 
 const cellElements = document.querySelectorAll('[data-cell]')
-const board = document.getElementById
+const board = document.getElementById('')
