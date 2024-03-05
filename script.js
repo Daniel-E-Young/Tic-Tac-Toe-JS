@@ -14,3 +14,4 @@ const WINNING_COMBINATIONS = [
 const cellElements = document.querySelectorAll('[data-cell]')
 const board = document.getElementById('board')
 const winningMessageElement = document.getElementById('winningMessage')
+const rest
