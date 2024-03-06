@@ -20,3 +20,5 @@ let circleTurn
 
 startGame()
 
+restartButton.addEventListener('click', startGame)
+
