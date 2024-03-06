@@ -23,5 +23,8 @@ startGame()
 restartButton.addEventListener('click', startGame)
 
 function startGame() {
-    
+    circleTurn = false
+    cellElements.forEach(cell => {
+        
+    })
 }
