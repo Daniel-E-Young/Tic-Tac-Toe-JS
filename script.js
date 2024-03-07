@@ -30,5 +30,5 @@ function startGame() {
         cell.removeEventListener('click', handleClick)
     })
     setBoardHoverClass()
-    
+    winningMessageElement
 }
