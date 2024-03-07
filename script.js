@@ -30,5 +30,9 @@ function startGame() {
         cell.removeEventListener('click', handleClick)
     })
     setBoardHoverClass()
-    winningMessageElement.classList.rem
+    winningMessageElement.classList.remove('show')
+}
+
+function handleClick(e){
+    const cell = e.target
 }
