@@ -29,4 +29,6 @@ function startGame() {
         cell.classList.remove(CIRCLE_CLASS)
         cell.removeEventListener('click', handleClick)
     })
+    setBoardHoverClass()
+    
 }
