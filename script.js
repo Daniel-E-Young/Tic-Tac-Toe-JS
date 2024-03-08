@@ -46,3 +46,7 @@ function handleClick(e){
         setBoardHoverClass()
     }
 }
+
+function endGame(draw) {
+    
+}
