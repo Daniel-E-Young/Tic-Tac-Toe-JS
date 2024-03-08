@@ -39,5 +39,7 @@ function handleClick(e){
     placeMark(cell, currentClass)
     if (checkWin(currentClass)){
         endGame(false)
-    } else if 
+    } else if (isDraw()) {
+        endGame(true)
+    }
 }
