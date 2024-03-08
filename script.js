@@ -41,5 +41,7 @@ function handleClick(e){
         endGame(false)
     } else if (isDraw()) {
         endGame(true)
+    } else {
+        swapTurns()
     }
 }
