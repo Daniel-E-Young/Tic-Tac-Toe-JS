@@ -57,5 +57,7 @@ function endGame(draw) {
 }
 
 function isDraw() {
-    
+    cell.classList.add(currentClass)
 }
+
+
