@@ -60,4 +60,6 @@ function isDraw() {
     cell.classList.add(currentClass)
 }
 
-
+function swapTurns() {
+    c
+}
