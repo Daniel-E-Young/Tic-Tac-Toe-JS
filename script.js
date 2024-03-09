@@ -61,5 +61,7 @@ function isDraw() {
 }
 
 function swapTurns() {
-    c
+    circleTurn = !circleTurn
 }
+
+
