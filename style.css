@@ -143,4 +143,5 @@
   
   .winning-message.show {
     display: flex;
+    margin: 20px;
   }
