@@ -66,6 +66,7 @@ function swapTurns() {
 
 function setBoardHoverClass() {
     board.classList.remove(X_CLASS)
+    board.classList.remove(CIRCLE_CLASS)
     
 }
 
