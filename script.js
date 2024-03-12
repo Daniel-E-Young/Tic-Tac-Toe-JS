@@ -70,8 +70,9 @@ function setBoardHoverClass() {
     if (circleTurn) {
         board.classList.add(CIRCLE_CLASS)
     } else{
-        
+        board.classList.add(X_CLASS)
     }
 }
+
 
 
