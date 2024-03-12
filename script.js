@@ -64,6 +64,8 @@ function swapTurns() {
     circleTurn = !circleTurn
 }
 
-
+function setBoardHoverClass() {
+    
+}
 
 
