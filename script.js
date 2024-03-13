@@ -74,5 +74,6 @@ function setBoardHoverClass() {
     }
 }
 
+function checkWin()
 
 
