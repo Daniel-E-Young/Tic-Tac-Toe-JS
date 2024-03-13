@@ -75,7 +75,9 @@ function setBoardHoverClass() {
 }
 
 function checkWin(currentClass) {
-    
+    return WINNING_COMBINATIONS.some(combination => {
+        
+    })
 }
 
 
