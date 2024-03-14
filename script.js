@@ -67,7 +67,7 @@ function placeMark(cell, currentClass) {
 }
 
 function swapTurns() {
-  circleTurn = !circleTur
+  circleTurn = !circleTu
 }
 
 function setBoardHoverClass() {
